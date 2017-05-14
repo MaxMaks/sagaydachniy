@@ -1,0 +1,68 @@
+.profileImage{
+	width: 40px;
+	height: 40px;
+	display: inline;
+	border-radius: 100%;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+h3{
+	line-height: 40px;
+	display: inline;
+}
+.nameblock{
+	margin: 0 auto 10px;
+	width: 500px;
+}
+.wrap{
+	width: 80%;
+	margin:  40px auto 20px;
+}
+
+.main-page{
+	width: 700px;
+	margin: 100px auto 0;
+	text-align: center;
+}
+fieldset{
+	text-align: justify;
+}
+fieldset legend{
+	margin-left: 60px;
+	padding: 0 5px;
+}
+
+a{
+	color:#ddd;
+}
+a:hover{
+	color:#666;
+}
+
+
+#logout,#myStudents,#quiz{
+	margin-left: 30px;
+	float: right;
+}
+
+
+.choice{
+	margin-top: 20px;
+}
+.choice button{
+	width: 80px;
+	height: 30px;
+	margin: 10px 5px 0;
+	border:none;
+	background-color: #888;
+}
+.choice button:hover{
+	background-color: #aaa;
+}
+.choice button:focus{
+	outline: none;
+}
+.choice button:active{
+	background: #bbb;
+}
+

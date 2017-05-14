@@ -1,0 +1,19 @@
+span{
+	color:#ddd;
+	cursor: pointer;
+}
+span:hover{
+	color:#666;
+}
+ul{
+	margin:5px;
+	padding: 0 0 0 7px;
+}
+fieldset{
+	margin-top: 10px;
+	display: inline-block;
+	width: 200px;
+}
+.wrap{
+	margin: 0 auto;
+}
